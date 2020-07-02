@@ -1,0 +1,7 @@
+C:\Users\rvarg\Desktop\Examen POO\examen-Raimundo-vargas\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\rvarg\Desktop\Examen POO\examen-Raimundo-vargas\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\rvarg\Desktop\Examen POO\examen-Raimundo-vargas\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\rvarg\Desktop\Examen POO\examen-Raimundo-vargas\Examen\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+C:\Users\rvarg\Desktop\Examen POO\examen-Raimundo-vargas\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\rvarg\Desktop\Examen POO\examen-Raimundo-vargas\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\rvarg\Desktop\Examen POO\examen-Raimundo-vargas\Examen\Examen\obj\Debug\Examen.pdb

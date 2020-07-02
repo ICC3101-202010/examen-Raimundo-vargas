@@ -18,5 +18,7 @@ namespace Examen
             this.nacion = nacion;
             this.sueldo = sueldo;
         }
+
+        public abstract void Verinformacion();
     }
 }
