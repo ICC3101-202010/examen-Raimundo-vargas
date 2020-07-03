@@ -9,11 +9,12 @@ namespace Examen
 {
     class Equipo
     {
+        public string nombre;
+        public string tipo;
         public List<Jugador> Jugadores = new List<Jugador>();
         public List<Entrenador> Entrenador = new List<Entrenador>();
         public List<Medico> Medico = new List<Medico>();
-        public string nombre;
-        public string tipo;
+        
 
         public Equipo(string nombre, string tipo)
         {
@@ -37,6 +38,15 @@ namespace Examen
 
         public void Ver_Info_equipo()
         {
+            Console.WriteLine("\nNombre Equipo:\n");
+            Console.WriteLine(nombre);
+            Thread.Sleep(1000);
+
+            Console.WriteLine("\nTipo de Equipo:\n");
+            Console.WriteLine(tipo);
+            Thread.Sleep(1000);
+
+
             Console.WriteLine("\nEntrenador:\n");
             Entrenador[0].Verinformacion();
             Thread.Sleep(1000);

@@ -8,8 +8,8 @@ namespace Examen
 {
     abstract class Persona
     {
-        string nombre;
-        string nacion;
+        public string nombre;
+        public string nacion;
         int sueldo;
 
         protected Persona(string nombre, string nacion, int sueldo)

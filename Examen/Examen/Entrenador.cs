@@ -10,24 +10,18 @@ namespace Examen
     class Entrenador : Persona
     {
         int Tactica;
-        string Nombre;
-        string Nacion;
-        int Sueldo;
 
         public Entrenador(string nombre, string nacion, int sueldo, int tactica) : base(nombre, nacion, sueldo)
         {
             Tactica = tactica;
-            Nombre = nombre;
-            Nacion = nacion;
-            Sueldo = sueldo;
         }
         
         public override void Verinformacion()
         {
             Console.WriteLine("Nombre Entrenador:");
-            Console.WriteLine(Nombre);
+            Console.WriteLine(nombre);
             Console.WriteLine("Nacion Entrenador:");
-            Console.WriteLine(Nacion);
+            Console.WriteLine(nacion);
         }
     }
 }
